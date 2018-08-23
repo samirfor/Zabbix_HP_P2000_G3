@@ -54,4 +54,4 @@ Big thanks to Zabbix team, LLD makes template generation soo much easier.
 Best regards,
 Emir Imamagic
 
-Font: https://www.zabbix.com/forum/showthread.php?t=26572
+Source: https://www.zabbix.com/forum/showthread.php?t=26572
